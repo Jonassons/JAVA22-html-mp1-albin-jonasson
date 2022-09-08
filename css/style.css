@@ -1,0 +1,55 @@
+#duplant{
+    height: 250px; width: 400px;
+}
+#zlatan{
+    height: 250px;  width: 400px;
+}
+#conor{
+    height: 250px; width: 400px;
+}
+/* Inspirationer css ^ */
+
+h1{
+    color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h2{
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h3{
+    color: green;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p{
+    font-family: cursive;
+}
+a{
+    background-color: yellow;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+a:hover{
+    background-color: red;
+    
+}
+#index{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.container{
+    padding-top: 100px;
+}
+q{
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+}
+
+ 
+
+
+
+
+
+
+
+    
